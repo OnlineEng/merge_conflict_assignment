@@ -1,11 +1,9 @@
 def greeting(all):
     return "hello {all}"
 print("Hayes example")
-print("Hayes better example!!")
+#print("Hayes better example!!")
+
 
 # epic comment from Hayes
-
-# new branch yipee
-
-def sum(num1, num2):
-    return num1 * num2
+def sum(num1,num2):
+    return num1*num2
