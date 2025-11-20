@@ -1,5 +1,5 @@
-def greeting(name):
-    return "hello {name}"
+def greeting(age):
+    return "hello {age}"
 print("Hayes example")
 print("Hayes better example!!")
 
